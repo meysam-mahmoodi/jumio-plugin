@@ -1,0 +1,3 @@
+platform :ios, '10.0'
+use_frameworks!
+pod 'JumioMobileSDK/Netverify', '~>2.14'
